@@ -13,7 +13,7 @@
 <body>
 
     <form name="monformulaire1" action="" method="post" onSubmit="return Verification()">
-        <label for="idNom">Nom <span class="text-danger">*</span></label>
+        <label for="idNom">Mon nom <span class="text-danger">*</span></label>
         <input type="text" name="nom" id="idNom">
         <br><br>
 
